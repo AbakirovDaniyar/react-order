@@ -1,0 +1,62 @@
+.title{ 
+    color:rgb(245, 40, 40); 
+    font-size: large; 
+} 
+.text{ 
+    color:greenyellow;
+    font-size: 20px; 
+ 
+} 
+.img{ 
+    width: 200px; 
+    height: 200px; 
+} 
+.price{ 
+    font-size: 30px; 
+    color:rgb(30, 151, 36); 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-weight: 20px; 
+    /* background-color: silver; */ 
+} 
+.pieces{ 
+    font-size: 20px; 
+    color: green;
+} 
+.composition{ 
+    font-size: 20px; 
+    font-style: italic; 
+    margin-bottom: 30px; 
+    color: rgb(255, 249, 249);
+    border: 2px solid; 
+ 
+} 
+.btn{ 
+    margin-top: 15px; 
+} 
+.minus{ 
+    width: 30px; 
+    height: 30px; 
+    background-color: green;
+    color:  rgb(0, 0, 0); 
+} 
+.input{ 
+    width: 100px; 
+    height: 25px; 
+    text-align: center; 
+    margin: 5px 5px; 
+} 
+.addition{ 
+    width: 30px; 
+    height: 30px; 
+    background-color: green;
+    color: rgb(0, 0, 0); 
+} 
+.add{ 
+    border: 2px solid; 
+    width: 250px; 
+    height: 25px; 
+    text-align: center; 
+    background-color: green;
+    color: red;
+    margin-top: 10px; 
+}
